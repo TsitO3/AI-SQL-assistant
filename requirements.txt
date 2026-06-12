@@ -1,0 +1,7 @@
+streamlit
+plotly
+pandas
+genai
+pymysql
+psycopg2
+sqlite3
